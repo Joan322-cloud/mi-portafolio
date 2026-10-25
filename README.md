@@ -34,7 +34,7 @@ Estudiante de Diseño y Desarrollo de software en Tecsup.
 Para ver el estado del proyecto uso `git status`.
 
 ```bash git add .
-git commit -m "Actualiza el README" git push origin main
+ssseeeee commit -m "Actualiza el README" git push origin main
 ```
 
 | Comando | Que hace |
@@ -44,4 +44,7 @@ git commit -m "Actualiza el README" git push origin main
 | git push | Sube los cambios al remoto |
 
 > Documentar es parte del trabajo, no un extra al final.
-aaaaaa
+
+## Enlace a otros markdown
+
+- [Guía del proyecto](docs/GUIA.md)
